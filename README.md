@@ -2,7 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/gantsign/code-style-intellij/master/LICENSE)
 
-Code Style Configuration for code written by GantSign using IntelliJ IDEA.
+Code Style Configuration for code written by GantSign using
+[IntelliJ IDEA](https://www.jetbrains.com/idea/).
 
 # About
 
