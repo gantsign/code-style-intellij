@@ -11,7 +11,7 @@ Code Style Configuration for code written by GantSign using
 The GantSign IntelliJ Code Style focuses on readability and minimizing version
 control changes.
 
-The indent is 2 (rather than 4) spaces to make functional style code more
+The indent is 2 spaces (rather than 4) to make functional style code more
 readable (functional code often has deeper levels of nesting).
 
 Mandatory line wrapping for enum/array values and implements/extends/throws
