@@ -1,5 +1,7 @@
 # GantSign Code Style Configuration
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/gantsign/code-style-intellij/master/LICENSE)
+
 Code Style Configuration for code written by GantSign using IntelliJ IDEA.
 
 # About
@@ -21,7 +23,8 @@ the code for better readability.
 
 ## License
 
-MIT
+This software is licensed under the terms in the file named "[LICENSE](LICENSE)"
+in the root directory of this project.
 
 ## Author Information
 
