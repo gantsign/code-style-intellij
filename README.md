@@ -1,5 +1,6 @@
 # GantSign Code Style Configuration
 
+[![Build Status](https://travis-ci.org/gantsign/code-style-intellij.svg?branch=master)](https://travis-ci.org/gantsign/code-style-intellij)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/gantsign/code-style-intellij/master/LICENSE)
 
 Code Style Configuration for code written by GantSign using
